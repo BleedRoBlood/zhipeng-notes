@@ -1,0 +1,10 @@
+Lecture 03
+==========
+
+Before class:
+-------------
+- I did an exercise on how to set up a file system on an EBS volume and verify the persistance of files.
+- I read chapter 5 "Software Installation and Package Management".
+
+-Open Question:
+Is there any possible way to lanuch a particular instance via AWS CLI?
