@@ -1,0 +1,28 @@
+Lecture 02
+==========
+
+Before class:
+-------------
+- I learn how to set up AWS service and initialize a new linux instance.
+- I read chapter 04 -"Of File Systems and Storage Models" in "principles of system administration".
+
+-Open Question:
+If there is any simple method to use up all inodes? My method cost a lot of time.
+
+After class:
+------------
+- Use AWS CIL to run an instance.
+- Use alias to save some typing.
+- Learn some basic disk concepts:
+	- Storage Models:
+		> DAS
+		> NAS
+		> SAN
+		> EBS
+	- Disk Devices
+	- Partitions
+- Some commands:
+	> fdisk
+	> df
+	> mount
+	> newfs
