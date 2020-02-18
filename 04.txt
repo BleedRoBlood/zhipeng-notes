@@ -1,0 +1,8 @@
+Lecture 04
+==========
+
+Before class:
+-------------
+- I did a exercise on how to add user and add user to a group.
+- I read chapter 6 "Of Users And Groups".
+- I knew how to manage user and group in Unix-like system. 
