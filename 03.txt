@@ -8,3 +8,14 @@ Before class:
 
 -Open Question:
 Is there any possible way to lanuch a particular instance via AWS CLI?
+
+After class:
+------------
+- I did a homework on how to back up a file to a specific instance device.
+- I knew how to lanuch a particular instance via AWS CLI.
+- Boot process might include the following steps:
+    1. Power-On Self Test(POST)
+    2. Execution of Primary boot loader
+    3. Access of the MBR
+    4. Execution of secondary or second-stage boot loader.
+    5. Loading of the hypervisor and starting of the privileged domin (dom0) 
