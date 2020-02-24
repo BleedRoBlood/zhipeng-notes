@@ -5,4 +5,12 @@ Before class:
 -------------
 - I did a exercise on how to add user and add user to a group.
 - I read chapter 6 "Of Users And Groups".
-- I knew how to manage user and group in Unix-like system. 
+- I knew how to manage user and group in Unix-like system.
+
+After class:
+------------
+- I learned authentication, like passwords, ssh keys, security tokens, ect.
+- Every account has a unique ID and it belongs to at least one group.
+- Every file is associated with a uid and a gid and has a number of protection bits.
+- Groups enable arbitrary collections of users to share resources and information stored in /etc/group.
+- We should remeber all users are equal and some users are more equal than others.
