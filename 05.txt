@@ -1,0 +1,10 @@
+Lecture 05
+==========
+
+Before class:
+-------------
+- I learned the basic concepts of network and some related commands about network configuration.
+- Command "ifconfig"
+- Command "ping"
+- Command "traceroute"
+- Command "ip"
