@@ -1,0 +1,13 @@
+Lecture 06
+==========
+
+Before class:
+-------------
+- I learned some basic command, such as "tcpdump", "ktrace", "netstat", "nslookup"
+- If you don't know your DNS domain name, it can probably be found by looking at the file /etc/resolv.conf on Unix host.
+- command: nslookup domain [dns-server] 
+	   nslookup -qt=type domain [dns-server]
+- command: dig -t a www.google.com +noall +answer
+	   dig -t ns www.google.com
+	   dig -t a www.google.com
+	   dig -t mx www.google.com
