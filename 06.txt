@@ -11,3 +11,9 @@ Before class:
 	   dig -t ns www.google.com
 	   dig -t a www.google.com
 	   dig -t mx www.google.com
+
+After class:
+-----------
+- Command: telnet www.yahoo.com 80
+- Performing the DNS query:
+	tcpdump -t -n -r tcpdump.out udp port 53
