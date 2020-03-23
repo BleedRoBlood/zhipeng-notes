@@ -1,0 +1,26 @@
+Lecture 07
+==========
+
+Before class:
+-------------
+- DNS Resource Records
+	CNAME - the canonical name for an alias
+	MX - mail exchange
+	NS - an authoritative name server
+	PTR - a domain name pointer
+- HTTP is a request/response protocol
+- Server status codes:
+	1xx - Informational
+	2xx - Success
+	3xx - Redirection
+	4xx - Client Error
+	5xx - Server Error
+
+After class:
+-----------
+- Ways to mitigte HTTP overload:
+	- DNS round-robin to many web servers
+	- load balancing
+	- web cache
+	- content delivery networks
+- There are 13 root server addresses.
