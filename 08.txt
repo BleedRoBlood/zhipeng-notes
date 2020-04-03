@@ -1,0 +1,16 @@
+Lecture 08
+==========
+
+Before class:
+-------------
+- TLS: Transport Layer Security:
+	1. independent of HTTP
+	2. encryption of data in transit.
+	3. authentication of parties.
+
+
+After class:
+------------
+1. Command: openssl s_client -connect www.stevens.edu:443
+2. Command: openssl s_client -connect www.stevens.edu:443 | \
+	openssl x509 -text -noout
