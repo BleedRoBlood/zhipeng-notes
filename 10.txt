@@ -1,0 +1,10 @@
+Lecture 10
+==========
+
+Before Class:
+-------------
+- tar command:
+	- tar cf - data/ | ssh ec2-instance "tar -xf - -C /var/backups/$(date)"
+	- tar cf - data/ | ssh ec2-instance "dd of=/dev/rxb2a"
+	- tar cf - data/ | gpg --encrypt -r recipient | ssh ec2-instance "dd of=/dev/rxb2a"
+- dump preserve files so that deletion of a file can be undone.
