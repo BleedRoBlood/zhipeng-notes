@@ -1,0 +1,12 @@
+Lecture 09
+==========
+
+Before Class:
+------------
+- I read the Automation, Building Scalable Tools, Writing Systen Tools and Writing Consistent Tools links.
+	- The benefits of automation: Repeatability, Reliability, Flexibility.
+	- Write meaningful commit messages, follow a common style, value proper spelling, accept common command-line options, write the fine manual, package your tool.
+
+After Class:
+-----------
+
