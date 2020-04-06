@@ -9,4 +9,13 @@ Before Class:
 
 After Class:
 -----------
-
+- Who benifits from automation:
+	- ourselves
+	- peers
+	- users
+	- organization
+	- anybody anywhere
+- regular expression
+	ipv4: /^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$/
+	word: /\b(\w*work\w*)\b/
+	date: /([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))/
