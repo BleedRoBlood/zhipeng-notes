@@ -1,0 +1,15 @@
+Lecture 11
+==========
+
+Before Class:
+------------
+- I know some CM requirements:
+	- software installation
+	- service management
+	- file permission
+	- static files
+	- host-specific data
+	- command-execution
+	- data collection
+- Idempotence
+	- All operation must be idempotent
