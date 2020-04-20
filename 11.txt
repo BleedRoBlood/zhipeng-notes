@@ -13,3 +13,15 @@ Before Class:
 	- data collection
 - Idempotence
 	- All operation must be idempotent
+
+After Class:
+------------
+- Reading links: http://www.infrastructures.org/bootstrap/recovery.shtml
+- CM requirements 
+	- software installation
+	- service management
+	- file permission
+	- static files
+	- host-specific data
+	- command-execution
+	- data collection
