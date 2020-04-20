@@ -1,0 +1,16 @@
+Lecture 12
+==========
+
+Before Class:
+------------
+- Reading links: https://www.netmeister.org/blog/infosec-basics.html
+		https://www.netmeister.org/blog/attack-life-cycle.html
+		https://www.bu.edu/tech/about/security-resources/bestpractice/unix/
+- How do we secure our system?
+	- Pick a good, supported operating system.
+	- Stay current with patches
+	- Use a Firewall
+	- Use file integrity monitoring and change auditing
+	- keep your clocks in sync
+	- copy your logs to our central log server
+
